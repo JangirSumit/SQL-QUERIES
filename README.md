@@ -1,2 +1,4 @@
-# prime-numbers-in-sql-server
-Prime Numbers query in SQL server
+# SQL QUERIES FOR INTERVIEW
+
+* Prime Number
+* Draw a pattern
